@@ -1,1 +1,3 @@
 # GraphTraversal
+
+BFS and DFS 
